@@ -85,3 +85,6 @@ If you want to know about...
 
 [1] O. Tange. Gnu parallel - the command-line power tool. _;login: The USENIX Magazine_, 36(1):42–47, Feb 2011. URL http://www.gnu.org/s/parallel.
 
+# Acknowledgements
+
+This material is based upon work supported by the National Science Foundation under Grant No. IIS1939827 and by Harvey Mudd College.
