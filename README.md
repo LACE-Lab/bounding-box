@@ -20,11 +20,11 @@ This will create the executable _planning_ in the _bin_ directory.
 
 # Generating Results
 
-If you wish to run your own custom experiments, from the _bin_ directory you can run
+If you wish to run your own custom experiments, you can go to the _bin_ directory and run
 ```
-./planning -h
+./planning
 ```
-to see the command-line arguments.
+with your selected command-line arguments. The arguments are (poorly) described in the file _planning.cpp_.
 
 If you wish to run the experiments described in the paper, there are multiple Python scripts in the _bin_ directory to help. To reproduce the results in the paper, follow these steps:
 
